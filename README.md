@@ -1,5 +1,5 @@
 # syst-me-de-paiement-extensible-en-Java
-# 💳 Payment Strategy – Java
+#  Payment Strategy – Java
 
 Ce projet Java démontre l'utilisation du **Design Pattern Strategy** pour construire un système de paiement flexible, évolutif et bien structuré.
 
